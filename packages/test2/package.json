@@ -1,5 +1,5 @@
 {
-  "name": "test2",
+  "name": "@exile_song/test2",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "eacd8f6cc3202d4ccaaf1f94d0f59d44f21f003c"
 }
