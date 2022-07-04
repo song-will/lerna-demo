@@ -1,2 +1,3 @@
-const test2 = require('test2')
-
+import io from 'socket.io-client'
+console.log(123)
+console.log('io')
