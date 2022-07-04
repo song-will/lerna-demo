@@ -3,11 +3,12 @@
   "version": "0.2.1",
   "description": "",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "0ef03e53701efce869450a0cba37e465aa749647"
+  "gitHead": "142c9c0e90240eca4e6a688a76552e6830c112a8"
 }
