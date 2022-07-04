@@ -1,9 +1,8 @@
 {
-  "name": "@exile_song/test2",
+  "name": "exile_song_test2",
   "version": "0.2.5",
   "description": "",
   "main": "index.js",
-  "private": true,
   "publishConfig": {
     "access": "public"
   },
